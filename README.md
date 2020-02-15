@@ -31,8 +31,8 @@ https://help.salesforce.com/articleView?id=restriction_of_processing_heroku.htm&
 
 ## A prendre en compte
 
-formulaire -> politique de confidentialité, mention légales à afficher
+politique de confidentialité et mentions légales à afficher.
 
-formulaire de contact / page de désinscription ou d’annulation de l’étude  possibilité de supprimer les données : délais d’un mois  
+formulaire de contact et/ou page de désinscription ou d’annulation de l’étude. la supression des données doit se faire au moins un mois après la demande.   
 
-mot de passe admin accrue.
+mot de passe admin avec une sécurité accrue et stockage dans un gestionnaire demot de passes.
