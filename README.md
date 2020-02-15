@@ -35,4 +35,5 @@ politique de confidentialité et mentions légales à afficher.
 
 formulaire de contact et/ou page de désinscription ou d’annulation de l’étude. la supression des données doit se faire au moins un mois après la demande.   
 
-mot de passe admin avec une sécurité accrue et stockage dans un gestionnaire demot de passes.
+mot de passe admin avec une sécurité accrue et stockage dans un gestionnaire de mot de passes.
+https://www.legifrance.gouv.fr/affichCnil.do?oldAction=rechExpCnil&id=CNILTEXT000033929210&fastReqId=1726469546&fastPos=3
