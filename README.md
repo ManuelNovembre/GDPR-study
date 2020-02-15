@@ -21,6 +21,7 @@ Dans le template uniquement garder le type et le montant de l’opération ?
  
 
 ## Choix de l’hébergeur : heroku
+https://www.cnil.fr/sites/default/files/typo/document/Recommandations_pour_les_entreprises_qui_envisagent_de_souscrire_a_des_services_de_Cloud.pdf
 
 https://help.heroku.com/BET88NAL/does-heroku-comply-with-the-eu-data-protection-directive-on-personal-data
 
